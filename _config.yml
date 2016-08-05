@@ -1,14 +1,14 @@
-layout_spectrum: 0.9931661589071155
-typography_spectrum: 0.8162165007088333
+layout_spectrum: 0.27828986570239067
+typography_spectrum: 0.32709962618537247
 color:
-  brandStrength: 0.5014102477580309
-  lightness: 0.5352192409336567
-  saturation: 0.10560144507326186
-  rhythmicContrast: 0.9497489433269948
+  brandStrength: 0.4070337270386517
+  lightness: 0.8084048782475293
+  saturation: 0.4807838436681777
+  rhythmicContrast: 0.576284960610792
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
 name: into infinity
