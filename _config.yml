@@ -1,4 +1,3 @@
-layout_spectrum: 0.9931661589071155
 typography_spectrum: 0.8162165007088333
 color:
   brandStrength: 0.5014102477580309
@@ -11,8 +10,10 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.9931661589071155
 name: into infinity
 navigation:
   - name: About me.
     id: 327c39d6-6dd4-4c78-b0e2-a45508d4b49e
     type: content
+title: Explore. Learn. Train. Grow.
