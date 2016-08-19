@@ -15,4 +15,8 @@ author:
   name: Stephen
   email: ''
 name: Explore. Learn. Train. Grow.
+navigation:
+  - name: About me.
+    id: 7289eb3a-721a-4975-abd1-7d68494f23eb
+    type: content
 title: Explore. Learn. Train. Grow.
