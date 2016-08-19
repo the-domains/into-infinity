@@ -7,18 +7,17 @@ description: >-
   encourage weight loss, decrease food cravings, decrease inflammation, stroke
   prevention, improved memory and cognitive benefits, and plenty of other
   benefits.
-dateModified: '2016-08-05T04:48:57.177Z'
-datePublished: '2016-08-05T04:51:09.231Z'
+dateModified: '2016-08-19T08:07:57.817Z'
+datePublished: '2016-08-19T08:07:58.385Z'
 title: LET’S DO THIS.
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-05-lets-do-this.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: lets-do-this/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6a7f944-24b4-4d36-82a1-ba58cca98634.jpg)
