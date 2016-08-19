@@ -11,7 +11,10 @@ color:
     - '#3A6EA5'
     - '#004E98'
 layout_spectrum: 0.9931661589071155
-name: into infinity
+author:
+  name: Stephen
+  email: ''
+name: Explore. Learn. Train. Grow.
 navigation:
   - name: About me.
     id: 327c39d6-6dd4-4c78-b0e2-a45508d4b49e
